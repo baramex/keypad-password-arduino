@@ -1,6 +1,6 @@
 /*
 ##########    keypad password   ##########
-#          Developped by Baramex         #
+#          Developed by Baramex          #
 ### github: https://github.com/baramex ###
 
 Licence: lgpl-3.0
