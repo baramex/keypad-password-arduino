@@ -1,4 +1,5 @@
 ## infos ##
+[![](https://tokei.rs/b1/github/baramex/keypad-password-arduino)]()<br/>
 [![](https://img.shields.io/github/languages/top/baramex/keypad-password-arduino?style=for-the-badge)]()
 
 [![](https://img.shields.io/github/downloads/baramex/keypad-password-arduino/total?style=for-the-badge)](https://github.com/baramex/keypad-password-arduino/releases/)
